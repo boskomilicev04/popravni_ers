@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "d31ab845-6105-4bdc-b834-f21faad991d0",
+    "KorisnickoIme": "admin",
+    "Lozinka": "admin123",
+    "ImePrezime": "Glavni Menadzer",
+    "Uloga": 1
+  },
+  {
+    "Id": "a4019237-3c13-4530-af88-be5d4bbc87b6",
+    "KorisnickoIme": "ivan",
+    "Lozinka": "ivan123",
+    "ImePrezime": "Ivan Ivanovic",
+    "Uloga": 0
+  }
+]

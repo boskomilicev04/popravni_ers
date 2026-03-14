@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "0cdc6012-2b85-4e90-b11a-fc7d1ed2cdc7",
+    "ImeMehanicara": "Ivan Ivanovic",
+    "Registracija": "NS123KA",
+    "DatumVremeIzdavanja": "2026-03-14T17:46:44.8147467+01:00",
+    "UkupanIznos": 8470.00
+  },
+  {
+    "Id": "d3d4d483-2f6e-49eb-9b5e-53af18788f0d",
+    "ImeMehanicara": "Ivan Ivanovic",
+    "Registracija": "KG222IO",
+    "DatumVremeIzdavanja": "2026-03-14T17:48:45.2428612+01:00",
+    "UkupanIznos": 9900.00
+  }
+]
