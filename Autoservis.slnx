@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Autoservis.Domain/Autoservis.Domain.csproj" />
+  <Project Path="Autoservis.Infrastructure/Autoservis.Infrastructure.csproj" />
+  <Project Path="Autoservis.Presentation/Autoservis.Presentation.csproj" />
+  <Project Path="Autoservis.Services/Autoservis.Services.csproj" />
+  <Project Path="Autoservis.Tests/Autoservis.Tests.csproj" />
+</Solution>
