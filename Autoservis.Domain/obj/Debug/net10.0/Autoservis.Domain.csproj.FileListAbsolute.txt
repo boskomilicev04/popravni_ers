@@ -1,0 +1,12 @@
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\bin\Debug\net10.0\Autoservis.Domain.deps.json
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\bin\Debug\net10.0\Autoservis.Domain.dll
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\bin\Debug\net10.0\Autoservis.Domain.pdb
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.AssemblyInfoInputs.cache
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.AssemblyInfo.cs
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.sourcelink.json
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.dll
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\refint\Autoservis.Domain.dll
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\Autoservis.Domain.pdb
+C:\Users\Boško\source\repos\popravni_ers\Autoservis\Autoservis.Domain\obj\Debug\net10.0\ref\Autoservis.Domain.dll
