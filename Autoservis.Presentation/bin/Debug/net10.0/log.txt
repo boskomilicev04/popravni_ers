@@ -1,0 +1,10 @@
+[14.03.2026 17:27:49] [INFO] - Uspesno dodato vozilo: NS123MA
+[14.03.2026 17:46:23] [INFO] - Uspesno dodato vozilo: NS123KA
+[14.03.2026 17:48:00] [INFO] - Uspesna prijava korisnika: admin (Uloga: Menadzer
+[14.03.2026 17:48:01] [INFO] - Pregled svih vozila u sistemu
+[14.03.2026 17:48:25] [INFO] - Uspesno dodato vozilo: KG222IO
+[14.03.2026 17:48:27] [INFO] - Pregled svih vozila u sistemu
+[14.03.2026 17:48:36] [INFO] - Uspesna prijava korisnika: ivan (Uloga: Mehanicar
+[14.03.2026 17:48:38] [INFO] - Pregled vozila koja cekaju servis
+[14.03.2026 17:48:45] [INFO] - Mehanicar Ivan Ivanovic je zavrsio servis za vozilo KG222IO
+[14.03.2026 17:48:45] [INFO] - Izdat racun za vozilo KG222IO u iznosu od 9900,00

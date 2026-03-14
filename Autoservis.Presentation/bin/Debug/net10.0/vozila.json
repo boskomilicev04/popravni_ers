@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "f493bd23-5383-40ce-97ea-6c330466a63b",
+    "RegistarskiBroj": "NS123KA",
+    "MarkaIModel": "IDK bro",
+    "Tip": 0,
+    "ProcenjenaCena": 8470.00,
+    "Servisirano": true
+  },
+  {
+    "Id": "8bff658c-5329-4219-a9ea-9cdba07d5685",
+    "RegistarskiBroj": "KG222IO",
+    "MarkaIModel": "BMW 3",
+    "Tip": 0,
+    "ProcenjenaCena": 9900.00,
+    "Servisirano": true
+  }
+]
